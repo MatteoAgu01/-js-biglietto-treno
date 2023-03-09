@@ -24,7 +24,7 @@ let juniorTiket = (priceTotal * 80 / 100).toFixed(2);
 
 
 
-if(isNaN(ageUser && distanceUser)){
+if (isNaN(ageUser) && isNaN(distanceUser)){
      document.getElementById('result').innerText = `
      inserire un valore valido
      `;
