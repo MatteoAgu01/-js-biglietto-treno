@@ -43,3 +43,5 @@ if (ageUser < 18)
      ${ juniorTiket } euro
      `;
 }
+
+//scusate se non ho lavorato il pomeriggio ma sono stato poco bene e mi sono svegliato 10 minuti fa 
