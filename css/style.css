@@ -1,0 +1,22 @@
+﻿*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+main{
+     height: 100vh;
+     background-image: url(https://www.fsnews.it/content/dam/fs_news/focus-2022/aprile/servizi/29_04_2022_Treni_vacanze_estive_2022_02.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+
+#result{
+     position: absolute;
+     top: 40%;
+     left: 50%;
+     transform: translate(-50%);
+     text-align: center;
+     padding: 5px 15px 25px;
+     background-color: rgb(169, 169, 169);
+}
