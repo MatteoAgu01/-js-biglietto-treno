@@ -37,7 +37,7 @@ else{
 if (ageUser > 65)
      document.getElementById('result').innerText = `
      ${seniorTiket}euro
-     `
+     `;
 if (ageUser < 18)
      document.getElementById('result').innerText = `
      ${ juniorTiket } euro
